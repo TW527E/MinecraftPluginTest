@@ -1,0 +1,8 @@
+name: tw527e
+version: '${project.version}'
+main: org.tw527e.tw527e.Tw527
+api-version: '1.20'
+commands:
+  Hello:
+    description: Hello World Command
+    usage: /<command>
